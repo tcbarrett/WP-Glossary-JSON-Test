@@ -3,7 +3,7 @@
  * Plugin Name: WP Glossary JSON TEST
  * Description: Test JSON API against Glossary plugin
  * Author: TCBarrett
- * Version: 0.2
+ * Version: 0.3
  * Author URI: http://www.tcbarrett.com/
  */
 
